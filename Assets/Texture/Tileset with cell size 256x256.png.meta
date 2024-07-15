@@ -1,0 +1,1772 @@
+fileFormatVersion: 2
+guid: c4ec145773dff834f83c2e9f6aa65dac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b63fe18d3e3845a23e50e4b2d1b41
+      internalID: -2010211221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198e88f519f7e8445839fd6bb99f042b
+      internalID: 1724782750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4ca9e5dba55374a9d7232bcad03dcc
+      internalID: -1373507874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d620b5dee06cef4985efb596d91f8ab
+      internalID: 276119027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aafb3ed5dd7f344a6486ba9b494f84
+      internalID: 2070141050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72d83231d07b1a46acfdaa19e4e4686
+      internalID: -396371398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abe89cbcf9decb41aa5d53d39301370
+      internalID: 619273456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fe4561b8d6bcc42bb4a595cc202e61
+      internalID: 2035995237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4e8deb965e7a140b728fa715b83a3e
+      internalID: -38095389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716ec6f6d85fdc84abf09ddc2d7ad3e2
+      internalID: 1086826646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ced19ea882b59428502dda0d9269e9
+      internalID: 446263171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708b30505021c1b40a048a71f189fcad
+      internalID: 1618711729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8234186d41949479f22dba923fe22e
+      internalID: 1322244973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7bc878a00d1d54ab02a78fd3d67890
+      internalID: 1053056248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06057242c36015a4db954c991d6d59cc
+      internalID: -189306868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2886f456770be574595491c7490de5c9
+      internalID: -1425022728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751274c512ae81546b05ffbe330768f5
+      internalID: 1716281431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e980380feac5ef44b8c03a994d885901
+      internalID: 1220277619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a6ceca0f46e7b409be5f961ed09ef7
+      internalID: 173178659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2e8ccbb237e2947b5d3fede3374e4e
+      internalID: -197597395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74a70a901f08634fb2b73a2d3e9ddab
+      internalID: -867036993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_21
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cdfb7fc7432b94ca28647231baccab
+      internalID: -1136082246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7768439d21ac14f970722a82049863
+      internalID: -969242075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_23
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c694520351234c1459128cd38461a0c6
+      internalID: 553827848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_24
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af354035332d504d90b603e5376edc2
+      internalID: 340659625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_25
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e159b40eb3fccd04ba80204b668a4d42
+      internalID: 498525548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_26
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9298de7a10cb8614fa3dea7a4601c3c3
+      internalID: 729372875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_27
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890d77967aebe9c4bba22962076a0e55
+      internalID: -792148488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f8b277e1f11ef4ea8921124dba3b06
+      internalID: 739097218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8d49506d45924485bb9e07e9eb7d0
+      internalID: 1545730481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9027e9c234f254781cdbcd32e2d636
+      internalID: 358267073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6788c2b1e785028489bd0676650a63a3
+      internalID: 1579403374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b114ab65aa6c04982449d95920ab45
+      internalID: -1373587812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb813921f1fc38247b306edafb140bb6
+      internalID: -139643137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b81a4056448c94481fd7f3f3c00454
+      internalID: -713205894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_35
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff3ad4020132bb4b85d100e3337ba5f
+      internalID: -1715736544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de593004ed13b44cbb92abf17cb5d13
+      internalID: 1039062636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_37
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b451a77def80640ab530d4db08ab32
+      internalID: -710571272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_38
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fc8508728b9cb438d9dd0d24642ac7
+      internalID: 1645435531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_39
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d830528563bfe498dabb5a943ee503
+      internalID: -976966107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_40
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f810e7f0fe6a81549affbb638929291a
+      internalID: -269637495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_41
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25594e83ccd0a4c4eaf94fb54fcd4184
+      internalID: 758351604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c10a9d995c1f042bf82801a0b89ca9
+      internalID: 1897223679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9012bee222283e4da752147efebdd06
+      internalID: -1932820345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b206490e48a8b4080817e0ddf89a64
+      internalID: 1642089072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bd9a4e58918ef4da56f89c3c43c1cd
+      internalID: 1766499903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b0eb1471c46ed48acbc13f0b120b6c
+      internalID: 639975185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb82ada8840c3447afcdb15a6e29aef
+      internalID: -33269720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a002b05edb1e92b4faca8f7659379f0e
+      internalID: 507124217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_49
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240c5f6349bf664478759525b001b4c7
+      internalID: 1269745846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_50
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf920a96256cc2409da73ceea58523a
+      internalID: 1068141171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_51
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a57dd3f0565c3448faa636821a95d2
+      internalID: -1782056282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_52
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c52fcb49df5ff46aa41c5b05ee07ce
+      internalID: 52462830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_53
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546fe3ba0e2ccfe4db9ec26e43095468
+      internalID: 1343776292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_54
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5bbbd42cd0dad44bd8a80d4b27a062
+      internalID: -443057383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_55
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb54eb599b98e24f8b0ec976ad7009d
+      internalID: -208932277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb966baac3226429df2bc9c712cfbf
+      internalID: 1249524521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6523f56d258570d40aefc6a8ecad1ac6
+      internalID: 706535106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c94e10b55ca2743b8a577d68fa7f94
+      internalID: 983448242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13677c57577afe45a88448a21d92fa7
+      internalID: 191654927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9647399da1c80744183a9998947ffbe0
+      internalID: 1810652883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d807ceb8e7efee40a747130654e0868
+      internalID: 1356062138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf8a678906f24c479bb424af845cda9
+      internalID: 1985721841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset with cell size 256x256_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b70f4484ee509438013fca204904bb
+      internalID: -2118583547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tileset with cell size 256x256_0: -2010211221
+      Tileset with cell size 256x256_1: 1724782750
+      Tileset with cell size 256x256_10: 446263171
+      Tileset with cell size 256x256_11: 1618711729
+      Tileset with cell size 256x256_12: 1322244973
+      Tileset with cell size 256x256_13: 1053056248
+      Tileset with cell size 256x256_14: -189306868
+      Tileset with cell size 256x256_15: -1425022728
+      Tileset with cell size 256x256_16: 1716281431
+      Tileset with cell size 256x256_17: 1220277619
+      Tileset with cell size 256x256_18: 173178659
+      Tileset with cell size 256x256_19: -197597395
+      Tileset with cell size 256x256_2: -1373507874
+      Tileset with cell size 256x256_20: -867036993
+      Tileset with cell size 256x256_21: -1136082246
+      Tileset with cell size 256x256_22: -969242075
+      Tileset with cell size 256x256_23: 553827848
+      Tileset with cell size 256x256_24: 340659625
+      Tileset with cell size 256x256_25: 498525548
+      Tileset with cell size 256x256_26: 729372875
+      Tileset with cell size 256x256_27: -792148488
+      Tileset with cell size 256x256_28: 739097218
+      Tileset with cell size 256x256_29: 1545730481
+      Tileset with cell size 256x256_3: 276119027
+      Tileset with cell size 256x256_30: 358267073
+      Tileset with cell size 256x256_31: 1579403374
+      Tileset with cell size 256x256_32: -1373587812
+      Tileset with cell size 256x256_33: -139643137
+      Tileset with cell size 256x256_34: -713205894
+      Tileset with cell size 256x256_35: -1715736544
+      Tileset with cell size 256x256_36: 1039062636
+      Tileset with cell size 256x256_37: -710571272
+      Tileset with cell size 256x256_38: 1645435531
+      Tileset with cell size 256x256_39: -976966107
+      Tileset with cell size 256x256_4: 2070141050
+      Tileset with cell size 256x256_40: -269637495
+      Tileset with cell size 256x256_41: 758351604
+      Tileset with cell size 256x256_42: 1897223679
+      Tileset with cell size 256x256_43: -1932820345
+      Tileset with cell size 256x256_44: 1642089072
+      Tileset with cell size 256x256_45: 1766499903
+      Tileset with cell size 256x256_46: 639975185
+      Tileset with cell size 256x256_47: -33269720
+      Tileset with cell size 256x256_48: 507124217
+      Tileset with cell size 256x256_49: 1269745846
+      Tileset with cell size 256x256_5: -396371398
+      Tileset with cell size 256x256_50: 1068141171
+      Tileset with cell size 256x256_51: -1782056282
+      Tileset with cell size 256x256_52: 52462830
+      Tileset with cell size 256x256_53: 1343776292
+      Tileset with cell size 256x256_54: -443057383
+      Tileset with cell size 256x256_55: -208932277
+      Tileset with cell size 256x256_56: 1249524521
+      Tileset with cell size 256x256_57: 706535106
+      Tileset with cell size 256x256_58: 983448242
+      Tileset with cell size 256x256_59: 2095852019
+      Tileset with cell size 256x256_6: 619273456
+      Tileset with cell size 256x256_60: 563702159
+      Tileset with cell size 256x256_61: -297054752
+      Tileset with cell size 256x256_62: 425125405
+      Tileset with cell size 256x256_63: 481477123
+      Tileset with cell size 256x256_64: 299431244
+      Tileset with cell size 256x256_65: 2121167735
+      Tileset with cell size 256x256_66: 1491835355
+      Tileset with cell size 256x256_67: -507704710
+      Tileset with cell size 256x256_68: 191654927
+      Tileset with cell size 256x256_69: 1810652883
+      Tileset with cell size 256x256_7: 2035995237
+      Tileset with cell size 256x256_70: 1356062138
+      Tileset with cell size 256x256_71: 1985721841
+      Tileset with cell size 256x256_72: -2118583547
+      Tileset with cell size 256x256_73: 2077040801
+      Tileset with cell size 256x256_74: -2081667013
+      Tileset with cell size 256x256_75: -500710235
+      Tileset with cell size 256x256_76: 299364351
+      Tileset with cell size 256x256_77: -1627209219
+      Tileset with cell size 256x256_78: -308613843
+      Tileset with cell size 256x256_79: 1524137167
+      Tileset with cell size 256x256_8: -38095389
+      Tileset with cell size 256x256_80: 147671242
+      Tileset with cell size 256x256_81: -1290724284
+      Tileset with cell size 256x256_9: 1086826646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

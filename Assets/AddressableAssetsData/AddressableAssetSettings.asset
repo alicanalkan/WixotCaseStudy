@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 652594aba1cc93047b1df09aeb08046b
   m_currentHash:
     serializedVersion: 2
-    Hash: 4b55fba33704253bd17aeaaa4429e34b
+    Hash: 50b8f07da4d7efe7305a440f915b5be5
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -87,6 +87,17 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - Bulet
+    - Dirt
+    - Tile1
+    - Boundary
+    - PopupCanvas
+    - WarningPopup
+    - Character
+    - Rifle
+    - PowerUpPanel
+    - StartButton
+    - ExitButton
+    - Bullet
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 5acb91efa7d2b6b41bb2daecddf36bbd, type: 2}

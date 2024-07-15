@@ -18,10 +18,64 @@ MonoBehaviour:
   m_GUID: 652594aba1cc93047b1df09aeb08046b
   m_SerializeEntries:
   - m_GUID: 2fba217a2f37375408f78bf4ed92144d
-    m_Address: Assets/Prefabs/Bulet.prefab
+    m_Address: Assets/Prefabs/Bullet.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
-    - Bulet
+    - Bullet
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66363144a0fe014419c8bc5871b55a7a
+    m_Address: Assets/Prefabs/Dirt.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Dirt
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c05c36cfc090c554e99770d10bc2a11e
+    m_Address: Assets/Prefabs/Tile1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Tile1
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58a64957f017eca4687f29e7bba1ea83
+    m_Address: Assets/Prefabs/Boundary.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Boundary
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a87ae3eb43d2d8408469ffa4ce17bc5
+    m_Address: Assets/Prefabs/PopupCanvas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PopupCanvas
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4212b05a9ce4a34ab245306e6a71d4f
+    m_Address: Assets/Prefabs/UI/WarningPopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - WarningPopup
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fe5b4ee32b59754c84409567db909af
+    m_Address: Assets/Prefabs/Character/Character.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Character
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10c555bfe69f9af4e8a68659bcb8bdb0
+    m_Address: Assets/Prefabs/Weapon/Rifle.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Rifle
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1243945463635f447bd887a4c61e719e
+    m_Address: Assets/Prefabs/UI/PowerUpPanel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PowerUpPanel
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ef3a6b59add996429b44d2b66317e7e
+    m_Address: Assets/Prefabs/UI/Exit.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ExitButton
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 6354c3816134c75449bbe78a5e11076e, type: 2}
