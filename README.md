@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alican Alkan </h1>
-<h2 align="center">This project created for wixot case study </h3>
+<h2 align="center">This project created for case study </h3>
 
 <h2 align="left">If you had a problem with a project please contact me </h3>
 
